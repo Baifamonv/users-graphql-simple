@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": "40",
+      "firstName": "jinger",
+      "age": 20,
+      "companyId": "2"
+    },
+    {
+      "id": "41",
+      "firstName": "Nick",
+      "age": 30,
+      "companyId": "2"
+    },
+    {
+      "firstName": "ericc",
+      "age": 40,
+      "id": "B1dvSq5al"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "google",
+      "description": "search"
+    },
+    {
+      "id": "2",
+      "name": "TreasureMy Trash",
+      "description": "mobile"
+    }
+  ]
+}
